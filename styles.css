@@ -45,7 +45,7 @@ h1 {
     flex: 1;
 }
 
-#send-btn {
+#send-btn, #voice-btn {
     padding: 10px;
     background: #007bff;
     color: white;
@@ -54,6 +54,6 @@ h1 {
     cursor: pointer;
 }
 
-#send-btn:hover {
+#send-btn:hover, #voice-btn:hover {
     background: #0056b3;
 }
