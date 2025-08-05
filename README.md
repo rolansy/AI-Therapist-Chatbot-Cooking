@@ -2,7 +2,7 @@
 
 # 💻 AI-Therapist-Chatbot-Cooking
 
-A modern frontend application. No description provided.
+A JavaScript frontend for an AI mental health therapist chatbot named Ron. It provides a chat interface for mental health inquiries.
 
 [![GitHub stars](https://img.shields.io/github/stars/{github_user}/{repo_name})](https://github.com/{github_user}/{repo_name}/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/{github_user}/{repo_name})](https://github.com/{github_user}/{repo_name}/network)
@@ -62,6 +62,7 @@ cd AI-Therapist-Chatbot-Cooking
 ## 📁 Project Structure
 
 ```
+📝 README.md
 🌐 index.html
 📄 proxy.mjs
 ⚡ script.js
